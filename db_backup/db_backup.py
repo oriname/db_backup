@@ -1,3 +1,4 @@
+#Automate MSSQL database backup
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import pyodbc
